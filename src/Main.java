@@ -7,4 +7,13 @@ void main() {
             "Každý den jsem snídal chleba s mlékem." + "\n" +
             "Několikrát jsem navštívil babičku a dědečka." + "\n" +
             "Tento rok jsem nebyl na dovolené a vůbec mi to nevadí.");
+
+    System.out.println("Moje jmeno - " + "Petr" + "\n" +
+            "Moje příjmení - " + "Novák" + "\n" +
+            "Můj věk - " + 15 + "\n" +
+            "Moje adresa - " + "Praha, Česká republika" + "\n" +
+            "Moje emailová adresa - " +"povelky.jsounej@gmail.com" + "\n" + "Moje telefonní číslo - " + "789 456 123" + "\n" );
+    // pravidlo 1. nikdy nedávat do kódu citlivé údaje, jako jsou emaily, telefonní čísla, hesla, čísla účtů atd.
+
+
 }
