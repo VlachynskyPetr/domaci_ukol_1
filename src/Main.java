@@ -13,7 +13,7 @@ void main() {
             "Můj věk - " + 15 + "\n" +
             "Moje adresa - " + "Praha, Česká republika" + "\n" +
             "Moje emailová adresa - " +"povelky.jsounej@gmail.com" + "\n" + "Moje telefonní číslo - " + "789 456 123" + "\n" );
-    // pravidlo 1. nikdy nedávat do kódu citlivé údaje, jako jsou emaily, telefonní čísla, hesla, čísla účtů atd.
+    // pravidlo 1. nikdy nedávat do kódu citlivé údaje, jako jsou emaily, telefonní čísla, hesla, čísla účtů atd. :D
 
 
 }
